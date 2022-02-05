@@ -8,21 +8,187 @@ Assignments performed by students for submission have a dual purpose. They are i
 
 Assignments from this and past years are presented below, with selected examples and solutions. All student work is courtesy of the student named and used with permission.
 
-| assignments | solutions | student examples |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**2004**{{< /td-colspan >}} |||
-| Assignment 1 ([PDF]({{< baseurl >}}/resources/04assn1)) | &nbsp; | Philippe Bonnefoy ([PDF]({{< baseurl >}}/resources/a1bonnefoy))  {{< br >}}  {{< br >}}Rebecca Fearing ([PDF]({{< baseurl >}}/resources/a1fearing)) |
-| Assignment 2A ([PDF]({{< baseurl >}}/resources/04assn2a)) | &nbsp; |
-| Assignment 2B ([PDF]({{< baseurl >}}/resources/04assn2b)) | &nbsp; |
-| Assignment 3 ([PDF]({{< baseurl >}}/resources/04assn3)) | 3A Solutions ([XLS]({{< baseurl >}}/resources/04a_3a_sols))  {{< br >}}  {{< br >}}3B Solutions ([XLS]({{< baseurl >}}/resources/04a_3b_sols)) | &nbsp; |
-| {{< td-colspan 3 >}}**2003**{{< /td-colspan >}} |||
-| Assignment 3 ([PDF]({{< baseurl >}}/resources/03assn3)) | &nbsp; |
-| {{< td-colspan 3 >}}**2002**{{< /td-colspan >}} |||
-| Assignment 1 ([PDF]({{< baseurl >}}/resources/f02_asst1)) | &nbsp; |
-| Assignment 2: Introduction ([PDF]({{< baseurl >}}/resources/f02_asst2intro)) | &nbsp; |
-| Assignment 2A ([PDF]({{< baseurl >}}/resources/f02_asst2a)) | &nbsp; |
-| Assignment 2B ([PDF]({{< baseurl >}}/resources/f02_asst2b)) | &nbsp; |
-| {{< td-colspan 3 >}}**2001**{{< /td-colspan >}} |||
-| Assignment 3 ([PDF]({{< baseurl >}}/resources/f01_asst3)) | &nbsp; |
-| {{< td-colspan 3 >}}**2000**{{< /td-colspan >}} |||
-| Assignment 3 ([PDF]({{< baseurl >}}/resources/f00_asst3)) | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+assignments
+{{< thclose >}}
+{{< thopen >}}
+solutions
+{{< thclose >}}
+{{< thopen >}}
+student examples
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2004**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/04assn1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Philippe Bonnefoy ([PDF]({{< baseurl >}}/resources/a1bonnefoy))  
+  
+Rebecca Fearing ([PDF]({{< baseurl >}}/resources/a1fearing))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2A ([PDF]({{< baseurl >}}/resources/04assn2a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2B ([PDF]({{< baseurl >}}/resources/04assn2b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/04assn3))
+{{< tdclose >}}
+{{< tdopen >}}
+3A Solutions ([XLS]({{< baseurl >}}/resources/04a_3a_sols))  
+  
+3B Solutions ([XLS]({{< baseurl >}}/resources/04a_3b_sols))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2003**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/03assn3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2002**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/f02_asst1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2: Introduction ([PDF]({{< baseurl >}}/resources/f02_asst2intro))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2A ([PDF]({{< baseurl >}}/resources/f02_asst2a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 2B ([PDF]({{< baseurl >}}/resources/f02_asst2b))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2001**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/f01_asst3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2000**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 3 ([PDF]({{< baseurl >}}/resources/f00_asst3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
