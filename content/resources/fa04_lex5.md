@@ -3,6 +3,7 @@ content_type: resource
 description: This resource illustrates an elevator example.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/fe87429f976cad4f3569fd7931a9448c_fa04_lex5.pdf
 file_type: application/pdf
+parent_uid: b81e0cfa-368c-050a-30d0-2502b8824c8b
 resourcetype: Document
 title: fa04_lex5.pdf
 uid: fe87429f-976c-ad4f-3569-fd7931a9448c

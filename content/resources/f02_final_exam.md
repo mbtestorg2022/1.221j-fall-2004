@@ -7,6 +7,7 @@ description: This resource inludes a question which deals with a simplified high
   26, 2002) and respond to the questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/6c541c7be22ddcaff95b32575a47b97f_f02_final_exam.pdf
 file_type: application/pdf
+parent_uid: abc3f042-44c1-9bf1-7275-49bf5c5e43a2
 resourcetype: Document
 title: f02_final_exam.pdf
 uid: 6c541c7b-e22d-dcaf-f95b-32575a47b97f
