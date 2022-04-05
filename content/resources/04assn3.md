@@ -6,6 +6,11 @@ description: The assignment asks you to use the given quantitative and qualitati
   from several different perspectives.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/a476eddbc723b72ed5bcfaa32f90039c_04assn3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9545726d-742a-aaa7-f80c-ccce3c609d28
 resourcetype: Document
 title: 04assn3.pdf

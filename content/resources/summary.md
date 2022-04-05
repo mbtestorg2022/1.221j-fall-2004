@@ -4,6 +4,11 @@ description: These slides cover major ideas from the course, and should be suppl
   with other materials presented by the instructor.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/e4475a969e2fcb2aab2deb3d900c2009_summary.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: b81e0cfa-368c-050a-30d0-2502b8824c8b
 resourcetype: Document
 title: summary.pdf

@@ -4,6 +4,11 @@ description: This resource talks about two kinds of transportation customers, an
   supply chain management.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/595308fd14043f8b4a8174f808c5f959_trans_sys_chap04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: b81e0cfa-368c-050a-30d0-2502b8824c8b
 resourcetype: Document
 title: trans_sys_chap04.pdf

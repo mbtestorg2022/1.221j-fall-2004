@@ -5,6 +5,11 @@ description: 'This resource talks about the following: Characteristics of the In
   Viability and Conclusion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-221j-transportation-systems-fall-2004/f2d2b53edd7b1397c616a71d4dde2e8b_trans_sys_chap28.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: b81e0cfa-368c-050a-30d0-2502b8824c8b
 resourcetype: Document
 title: trans_sys_chap28.pdf
